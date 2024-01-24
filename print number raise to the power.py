@@ -1,0 +1,2 @@
+#added some title
+print('\nDISPLAY THE TOTAL NUMBER TAHT IS RAISED TO THE POWER.\n')
