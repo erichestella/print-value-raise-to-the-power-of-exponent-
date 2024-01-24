@@ -7,3 +7,7 @@ exponential_integers = int(input('\nINPUT THE POWER: '))
 
 #it display the number you just input
 numerical_define = str(numerical_digit)
+
+#this function multiply the numerical digit you just input and the exponential integers
+for n in numerical_define:
+    total= int (n) ** exponential_integers
